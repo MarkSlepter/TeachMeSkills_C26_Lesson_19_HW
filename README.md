@@ -1,5 +1,3 @@
-# TeachMeSkills_C26_Lesson_20_HW
-This repository contains my homework assignment number 20
 # Task 1
 Create a program that simulates morning: reading the news, tomorrow, coffee.
 Give each thread a name and priority from the config file.
